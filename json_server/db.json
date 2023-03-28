@@ -1,0 +1,9 @@
+{
+    "sinhviens": [
+      { "id": 1, "fullname": "json-server", "tuoi": 18, "lop": "reactjs", "tongdiem": "10", "gioitinh": "nu"  }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
